@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @manideepanasuri
 - 👀 I’m interested in coading
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
